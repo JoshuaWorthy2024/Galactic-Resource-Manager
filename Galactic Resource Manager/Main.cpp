@@ -21,7 +21,6 @@ void displayNetValues(int mineral, int energy, int alloys, int months) {
 	
 }
 
-
 int main() {
 	std::cout << "Welcome to Galactic Resource Manager!" << std::endl;
 
