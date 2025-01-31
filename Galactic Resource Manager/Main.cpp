@@ -70,5 +70,7 @@ int main() {
 	std::cout << "- After 6 Months: " << (calculateMineralsToAlloys(mineralPerMonth, 6) * 10) << std::endl;
 	std::cout << "- After 12 Months: " << (calculateMineralsToAlloys(mineralPerMonth, 12) *10) << std::endl << std::endl;
 
+
+	return 0;
 }
 
